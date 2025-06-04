@@ -11,7 +11,7 @@
 • pkg install python2
 • pkg install root-repo -y
 • pkg install git tsu python wpa-supplicant pixiewps iw -y
-• git clone  
+• git clone https://github.com/Legion204/legion_oneShot
 • cd legion_oneShot 
 • pip3 install -r requirements.txt
 • chmod +x legion_oneShot.py
@@ -66,7 +66,7 @@ Please note: The Software is provided "as is," meaning without any warranties of
 
 + **IF FAILED TURN OFF YOUR LOCATION & WIFI THEN TRY TO ATTACK.**
 
-Repo : <a href=""> Click Here </a>
+Repo : <a href="https://github.com/Legion204/legion_oneShot"> Click Here </a>
 
 ##### Modify History : => 𝓛𝓮𝓰𝓲𝓸𝓷
 <div align="center">
