@@ -1045,7 +1045,7 @@ def die(msg):
 
 def usage():
     return """
-Iamzahidbd 5.0 (c) 2024 Md Zahid Hasan (Sumon).
+legion_oneShot 9.0 (c) 2025 𝓛𝓮𝓰𝓲𝓸𝓷.
 
 %(prog)s <arguments>
 
@@ -1078,7 +1078,7 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser(
-        description='iamzahidbd 5.0 (c) 2024 Zahid Hasan (Sumon).',
+        description='legion_oneShot 9.0 (c) 2025 𝓛𝓮𝓰𝓲𝓸𝓷.',
         epilog='Example: %(prog)s -i wlan0 -b 00:90:4C:C1:AC:21 -K'
         )
 
